@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "ROTATE_LINE.C": "cpp",
+        "POLY_FLOOD.C": "cpp",
+        "POLY_BOUNDARY.C": "cpp",
+        "MULTI_BRASH_CIR.C": "cpp",
+        "MID_POINT_CIR.C": "cpp",
+        "ELIPSE.C": "cpp",
+        "DDA_HEXA.C": "cpp",
+        "DDA_LINE.C": "cpp",
+        "BRASH_LINE.C": "cpp",
+        "BRASH_CIR.C": "cpp"
+    }
+}
